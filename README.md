@@ -1,4 +1,4 @@
-# NSS_AA_ASSIGNMENT
+# NSS_WEB_AA_ASSIGNMENT
 
 We are looking for enthusiastic individuals who are interested in either of the following genres:
 

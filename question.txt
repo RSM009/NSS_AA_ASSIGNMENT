@@ -1,5 +1,5 @@
 
-HTML:
+HTML:(1 point)
 
 (a) What does the acronym HTML stand for?
 
@@ -9,7 +9,7 @@ HTML:
 
 
 
-CSS:
+CSS:(1 point)
 
 (a) What does the acronym CSS stand for?
 
@@ -19,7 +19,7 @@ CSS:
 
 
 
-JavaScript:
+JavaScript:(1 point)
 
 (a) What is the difference between "==" and "===" operators in JavaScript?
 
@@ -29,7 +29,7 @@ JavaScript:
 
 
 
-Django:
+Django:(1 point)
 
 (a) What is Django and what is its main purpose?
 
@@ -56,7 +56,7 @@ Create a webpage that displays a photo gallery with a navigation bar using Boots
 
 You can use HTML and CSS to create the webpage structure and layout, and Bootstrap for the navigation bar and grid layout.
 You can also use JavaScript and a third-party lightbox library such as Fancybox to create the lightbox effect. 
-This project will allow you to practice your skills in using Bootstrap and responsive web design.
+This project wil:l allow you to practice your skills in using Bootstrap and responsive web design.
 
 
 Submission Instruction ( 5 points )
@@ -65,17 +65,14 @@ Create a new repository on GitHub for the project.
 
 Open a terminal and navigate to the directory where you want to store the project.
 
-Initialize a new Git repository using the "git init" command.
+Initialize a new Git repository using command.
 
-Add all the project files to the Git repository using the "git add ." command.
+Add all the project files to the Git repository using the command line.
 
-Commit the changes to the repository using the "git commit -m 'Initial commit'" command.
+Commit the changes to the repository (altleast 5 commit ).
 
-Connect the local Git repository to the remote GitHub repository using the "git remote add origin [GitHub repository URL]" command.
+Push the changes to the remote repository .
 
-Push the changes to the remote repository using the "git push -u origin master" command.
-
-Repeat steps 2-7 for the question file.
 
 Verify that the files have been uploaded to the GitHub repository by checking the repository on the GitHub website.
 

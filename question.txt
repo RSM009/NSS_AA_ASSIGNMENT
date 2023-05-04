@@ -43,13 +43,7 @@ Practical (6 points)
 
 Create a webpage that displays a photo gallery with a navigation bar using Bootstrap. The webpage should have the following features:
 
--The navigation bar should have links to different categories of photos (e.g., landscape, portrait, wildlife).
-
--The photo gallery should display a set of images for the selected category.
-
--The images should be displayed in a grid layout with equal sized image thumbnails.
-
--When a user clicks on a thumbnail, the image should be displayed in a larger size with a lightbox effect.
+-The navigation bar should have links to your intro with photo, hobbies, your SOP for nss.
 
 -The webpage should be responsive, so that it displays well on both desktop and mobile devices.
 
